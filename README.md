@@ -1,0 +1,1 @@
+# StanCollectsBot-Numista
